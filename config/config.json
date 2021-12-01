@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x807943A63a1511C4C642BBB1a025fcce282c70Bd",
+  "SCAN_LINK": "https://etherscan.io/address/0x807943A63a1511C4C642BBB1a025fcce282c70Bd",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Antiverse NFT",
+  "SYMBOL": "Antiverse NFT",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/antiverse",
+  "SHOW_BACKGROUND": true
+}
